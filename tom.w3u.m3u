@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iptv36.tv5" tvg-name="CH 5" tvg-logo="http://103.114.203.129:8080/images/755d01f38f70630aefecc2b5c20a6eca.jpg" group-title="ดิจิตอลทีวี",CH 5
+http://103.114.203.129:8080/toom/12345/56
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="PLAY SPORTS 66" tvg-logo="http://103.114.203.129:8080/images/59be00cd1c658c8822fb5b5c214e71aa.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 66
+http://103.114.203.129:8080/toom/12345/78
+#EXTINF:-1 tvg-id="iptv36.true4u" tvg-name="PLAY SPORTS 90" tvg-logo="http://103.114.203.129:8080/images/998ba1b33f5c85e3c3d21a2ac75e4920.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 90
+http://103.114.203.129:8080/toom/12345/3018
+#EXTINF:-1 tvg-id="" tvg-name="COOL fahrenheit" tvg-logo="http://103.114.203.129:8080/images/b03bbbd97434d87e1023d1acc03c67cb.png" group-title="วิทยุออนไลน์",COOL fahrenheit
+http://103.114.203.129:8080/toom/12345/5391
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="NBT HD" tvg-logo="http://103.114.203.129:8080/images/b7b71ac60c92ece8fd2d5a079ef7e448.jpg" group-title="ดิจิตอลทีวี",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS 3" tvg-logo="http://103.114.203.129:8080/images/35a16111cd710c6baf71d46e1be2e7b4.jpg" group-title="ดิจิตอลทีวี",Thai PBS 3
+http://103.114.203.129:8080/toom/12345/3
+#EXTINF:-1 tvg-id="iptv36.tsports" tvg-name="T Sport 7" tvg-logo="http://103.114.203.129:8080/images/f565bd2c505a5da1ebdf70768de80f84.jpg" group-title="ดิจิตอลทีวี",T Sport 7
+http://103.114.203.129:8080/toom/12345/7
+#EXTINF:-1 tvg-id="2311" tvg-name="TPTV" tvg-logo="http://103.114.203.129:8080/images/0efb92ce1430774cc04303cc8e1bfbe1.jpg" group-title="ดิจิตอลทีวี",TPTV
+http://103.114.203.129:8080/toom/12345/10
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="http://103.114.203.129:8080/images/83993e38fec55aef5d402655030977b7.jpg" group-title="ดิจิตอลทีวี",TNN 16
+http://103.114.203.129:8080/toom/12345/18892
+#EXTINF:-1 tvg-id="Play Sports HD3" tvg-name="PLAY SPORTS 73" tvg-logo="http://103.114.203.129:8080/images/6169bb36eadc3e23b5fdf01ccefc60f6.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 73
+http://103.114.203.129:8080/toom/12345/18894
+#EXTINF:-1 tvg-id="Nation.TV.th" tvg-name="Nation TV" tvg-logo="http://103.114.203.129:8080/images/27892b630ff112c10c6759d5ae57f4a0.jpg" group-title="ดิจิตอลทีวี",Nation TV
+http://103.114.203.129:8080/toom/12345/22
+#EXTINF:-1 tvg-id="iptv36.workpoint" tvg-name="เวิร์คพอยท์23" tvg-logo="http://103.114.203.129:8080/images/486c7b01fa492c733ffb3cc138fa746b.jpg" group-title="ดิจิตอลทีวี",เวิร์คพอยท์23
+http://103.114.203.129:8080/toom/12345/23
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="TRUE4U" tvg-logo="http://103.114.203.129:8080/images/efc4559e30ae761ee75b7414cf73fefc.jpg" group-title="ดิจิตอลทีวี",TRUE4U
+http://103.114.203.129:8080/toom/12345/24
+#EXTINF:-1 tvg-id="iptv36.gmm25" tvg-name="GMM 25" tvg-logo="http://103.114.203.129:8080/images/89a5d33eb049876824fa3ef95b837b7c.jpg" group-title="ดิจิตอลทีวี",GMM 25
+http://103.114.203.129:8080/toom/12345/25
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="THAI CH8" tvg-logo="http://103.114.203.129:8080/images/9569e00abeac8361a4b2563072f13a77.jpg" group-title="ดิจิตอลทีวี",THAI CH8
+http://103.114.203.129:8080/toom/12345/27
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="Monomax Sports TV" tvg-logo="http://103.114.203.129:8080/images/06be2bc763a2c58ffa1aead5b7128812.jpg" group-title="ดิจิตอลทีวี",Monomax Sports TV
+http://103.114.203.129:8080/toom/12345/29
+#EXTINF:-1 tvg-id="iptv36.mcot" tvg-name="MCOT HD" tvg-logo="http://103.114.203.129:8080/images/e41e94f2baa1f3c5d2f9eda768452c9f.jpg" group-title="ดิจิตอลทีวี",MCOT HD
+http://103.114.203.129:8080/toom/12345/30
+#EXTINF:-1 tvg-id="ONE31.HD.th" tvg-name="ONE31 FHD" tvg-logo="http://103.114.203.129:8080/images/859b06680f927c84e120424e78aaab51.jpg" group-title="ดิจิตอลทีวี",ONE31 FHD
+http://103.114.203.129:8080/toom/12345/31
+#EXTINF:-1 tvg-id="iptv36.thairath" tvg-name="THAIRATH 32" tvg-logo="http://103.114.203.129:8080/images/c6aa3fec31946a704e1c60a747b001b0.jpg" group-title="ดิจิตอลทีวี",THAIRATH 32
+http://103.114.203.129:8080/toom/12345/17578
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="CH 3 FHD" tvg-logo="http://103.114.203.129:8080/images/99b32e66072133462e270ea7f2326b03.jpg" group-title="ดิจิตอลทีวี",CH 3 FHD
+http://103.114.203.129:8080/toom/12345/33
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="AMARIN-TV" tvg-logo="http://103.114.203.129:8080/images/1e639d05ba46ba718171529bd4dec854.jpg" group-title="ดิจิตอลทีวี",AMARIN-TV
+http://103.114.203.129:8080/toom/12345/34
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="CH7 FHD" tvg-logo="http://103.114.203.129:8080/images/d2112b7062c74ef32a9c29ccf4bd979b.jpg" group-title="ดิจิตอลทีวี",CH7 FHD
+http://103.114.203.129:8080/toom/12345/35
+#EXTINF:-1 tvg-id="PPTV.th" tvg-name="PPTVHD 36 " tvg-logo="http://103.114.203.129:8080/images/e647a10324280031fa9d8d1c5f2f176e.jpg" group-title="ดิจิตอลทีวี",PPTVHD 36 
+http://103.114.203.129:8080/toom/12345/36
+#EXTINF:-1 tvg-id="Play Sports HD2" tvg-name="PLAY SPORTS 72" tvg-logo="http://103.114.203.129:8080/images/87d8894a27d7b7be674b4f74f0477f7d.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 72
+http://103.114.203.129:8080/toom/12345/18880
+#EXTINF:-1 tvg-id="" tvg-name="Cat Radio" tvg-logo="http://103.114.203.129:8080/images/7b1dee7e69086c2f5eafeea76720d741.jpeg" group-title="วิทยุออนไลน์",Cat Radio
+http://103.114.203.129:8080/toom/12345/58757
+#EXTINF:-1 tvg-id="" tvg-name="YES Radio" tvg-logo="http://103.114.203.129:8080/images/8174771ca0e586d7f3742e8981ac8e4f.png" group-title="วิทยุออนไลน์",YES Radio
+http://103.114.203.129:8080/toom/12345/58758
+#EXTINF:-1 tvg-id="" tvg-name="Request Radio สตริง" tvg-logo="https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z234" group-title="วิทยุออนไลน์",Request Radio สตริง
+http://103.114.203.129:8080/toom/12345/58759
+#EXTINF:-1 tvg-id="" tvg-name="Request Radio เพื่อชีวิต" tvg-logo="http://103.114.203.129:8080/images/068197bda36b1b8eee81d20ff2e963fb.png" group-title="วิทยุออนไลน์",Request Radio เพื่อชีวิต
+http://103.114.203.129:8080/toom/12345/58760
+#EXTINF:-1 tvg-id="491" tvg-name="PLAY SPORTS  67" tvg-logo="http://103.114.203.129:8080/images/a10fe387c051a7f49a5de1805c3d7667.jpg" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS  67
+http://103.114.203.129:8080/toom/12345/51377
+#EXTINF:-1 tvg-id="465311" tvg-name="PLAYSPORTS  53" tvg-logo="http://103.114.203.129:8080/images/f7783f20aa42f15468ab5edec892c953.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAYSPORTS  53
+http://103.114.203.129:8080/toom/12345/114
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-name=" PLAY SPORTS 55" tvg-logo="http://103.114.203.129:8080/images/437ef01735dca3cd9d734639335ff2b5.png" group-title="ไอส์เพลย์ สปอร์ตส์", PLAY SPORTS 55
+http://103.114.203.129:8080/toom/12345/113
+#EXTINF:-1 tvg-id="491" tvg-name="PLAY SPORTS 41" tvg-logo="http://103.114.203.129:8080/images/e04cc3a91c266e3786decba073cd4851.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 41
+http://103.114.203.129:8080/toom/12345/53035
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 57" tvg-logo="http://103.114.203.129:8080/images/c203cf96789f9483ec7668410932172f.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 57
+http://103.114.203.129:8080/toom/12345/49942
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 61" tvg-logo="http://103.114.203.129:8080/images/fe5821d5660331cf2f00cdeaeede9b07.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 61
+http://103.114.203.129:8080/toom/12345/61399
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 62" tvg-logo="http://103.114.203.129:8080/images/c4ece2c2f3c411030fb6898f6095004e.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 62
+http://103.114.203.129:8080/toom/12345/61400
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="PLAY SPORTS 64" tvg-logo="http://103.114.203.129:8080/images/59be00cd1c658c8822fb5b5c214e71aa.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 64
+http://103.114.203.129:8080/toom/12345/16611
+#EXTINF:-1 tvg-id="" tvg-name="มหากาพย์ปล้นจารชน (2024)" tvg-logo="http://103.114.203.129:8080/images/e1309436ef42a3daaf8088f0046bff17.jpg" group-title=" MOV หนังใหม่ชนโรง",มหากาพย์ปล้นจารชน (2024)
+http://103.114.203.129:8080/movie/toom/12345/63860.mp4
+#EXTINF:-1 tvg-id="537094" tvg-name="PLAY SPORTS  51" tvg-logo="http://103.114.203.129:8080/images/9ee67c34e9e38464ed1f2784555a0959.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS  51
+http://103.114.203.129:8080/toom/12345/23200
+#EXTINF:-1 tvg-id="" tvg-name="green" tvg-logo="http://103.114.203.129:8080/images/35c2ae28cc6cac6c941c7f467574a7c4.jpg" group-title="วิทยุออนไลน์",green
+http://103.114.203.129:8080/toom/12345/69835
+#EXTINF:-1 tvg-id="" tvg-name="efm" tvg-logo="http://103.114.203.129:8080/images/8058b640f6b3c1165f84d85ec238bd4f.jpeg" group-title="วิทยุออนไลน์",efm
+http://103.114.203.129:8080/toom/12345/69836
+#EXTINF:-1 tvg-id="" tvg-name="FM 106" tvg-logo="http://103.114.203.129:8080/images/01805dcb7b030e895cede23ec3326a92.png" group-title="วิทยุออนไลน์",FM 106
+http://103.114.203.129:8080/toom/12345/69837
+#EXTINF:-1 tvg-id="" tvg-name="เพลงสตริงเก่า" tvg-logo="http://103.114.203.129:8080/images/0a027370289a754ff00f65abc6f7532f.jpg" group-title="วิทยุออนไลน์",เพลงสตริงเก่า
+http://103.114.203.129:8080/toom/12345/69838
+#EXTINF:-1 tvg-id="" tvg-name="ฟังเพลง thai music" tvg-logo="http://103.114.203.129:8080/images/f12db7b9c45e8264426c7bfe3c28f8c3.png" group-title="วิทยุออนไลน์",ฟังเพลง thai music
+http://103.114.203.129:8080/toom/12345/69839
+#EXTINF:-1 tvg-id="BEIN1.th" tvg-name="BEIN-F1 " tvg-logo="http://103.114.203.129:8080/images/edbab45572c72a5d9440b40bcc0500c0.png" group-title="ช่องกีฬา",BEIN-F1 
+http://103.114.203.129:8080/toom/12345/102
+#EXTINF:-1 tvg-id="BEIN1.th" tvg-name="BEIN-1 TH" tvg-logo="http://103.114.203.129:8080/images/edbab45572c72a5d9440b40bcc0500c0.png" group-title="ช่องกีฬา",BEIN-1 TH
+http://103.114.203.129:8080/toom/12345/58896
+#EXTINF:-1 tvg-id="820.astro" tvg-name="BEIN  617" tvg-logo="http://103.114.203.129:8080/images/edbab45572c72a5d9440b40bcc0500c0.png" group-title="ช่องกีฬา",BEIN  617
+http://103.114.203.129:8080/toom/12345/58895
+#EXTINF:-1 tvg-id="BEIN2.th" tvg-name="BEIN FHD 2" tvg-logo="http://103.114.203.129:8080/images/fbfba2e45c2045dc5cab22a5afe83d9d.png" group-title="ช่องกีฬา",BEIN FHD 2
+http://103.114.203.129:8080/toom/12345/104
+#EXTINF:-1 tvg-id="BEIN3.th" tvg-name="BEIN FHD 3" tvg-logo="http://103.114.203.129:8080/images/7a6f150b83091ce20c89368641f9a137.png" group-title="ช่องกีฬา",BEIN FHD 3
+http://103.114.203.129:8080/toom/12345/105
+#EXTINF:-1 tvg-id="BEIN3.th" tvg-name="BEIN HD 3" tvg-logo="http://103.114.203.129:8080/images/7a6f150b83091ce20c89368641f9a137.png" group-title="ช่องกีฬา",BEIN HD 3
+http://103.114.203.129:8080/toom/12345/58894
+#EXTINF:-1 tvg-id="" tvg-name="ใหญ่・ปล้น・ฟัด (2016)" tvg-logo="http://103.114.203.129:8080/images/9642d5ef9e53225f4562a68406d1df0b.jpg" group-title="MOV หนังสงคราม",ใหญ่・ปล้น・ฟัด (2016)
+http://103.114.203.129:8080/movie/toom/12345/85248.mp4
+#EXTINF:-1 tvg-id="TRUESPORT1.th" tvg-name="ทรูสปอร์ต 1 HD" tvg-logo="http://103.114.203.129:8080/images/40b623a853330a55f6a0dac9d0dee968.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 1 HD
+http://103.114.203.129:8080/toom/12345/18904
+#EXTINF:-1 tvg-id="TRUESPORT2.th" tvg-name="ทรูสปอร์ต 2 HD" tvg-logo="http://103.114.203.129:8080/images/9a2f9278bac30cc9f5856803c0bbcca1.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 2 HD
+http://103.114.203.129:8080/toom/12345/18905
+#EXTINF:-1 tvg-id="TRUESPORT3.th" tvg-name="ทรูสปอร์ต 3 หลัก" tvg-logo="http://103.114.203.129:8080/images/a670fb07881bd1e5590595db69198b97.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 3 หลัก
+http://103.114.203.129:8080/toom/12345/51379
+#EXTINF:-1 tvg-id="TRUESPORT4.th" tvg-name="ทรูสปอร์ต 4 HD" tvg-logo="http://103.114.203.129:8080/images/c86930482f3d79945a8e3410617e1457.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 4 HD
+http://103.114.203.129:8080/toom/12345/18907
+#EXTINF:-1 tvg-id="TRSP5.th" tvg-name="ทรูสปอร์ต 5" tvg-logo="http://103.114.203.129:8080/images/7d4d37f5828c999b29e551db5308a357.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 5
+http://103.114.203.129:8080/toom/12345/99
+#EXTINF:-1 tvg-id="TRSP7.th" tvg-name="ทรูสปอร์ต 7" tvg-logo="http://103.114.203.129:8080/images/2dd7341a146a994c89cd307cbac3e8f4.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 7
+http://103.114.203.129:8080/toom/12345/100
+#EXTINF:-1 tvg-id="TRSP7.th" tvg-name="ทรูสปอร์ต 7 สำรอง" tvg-logo="http://103.114.203.129:8080/images/622600b84a5f0dc74c1a38c408866d32.jpg" group-title="ทรูสปอร์ต",ทรูสปอร์ต 7 สำรอง
+http://103.114.203.129:8080/toom/12345/51332
+#EXTINF:-1 tvg-id="TRTENNIS.th" tvg-name="TRUE TENNIS" tvg-logo="http://103.114.203.129:8080/images/59cc60e5bd3f7951465b1ce1800bcc29.jpg" group-title="ทรูสปอร์ต",TRUE TENNIS
+http://103.114.203.129:8080/toom/12345/101
+#EXTINF:-1 tvg-id="Golf.Channel.Thailand.HD.Plus.th" tvg-name="Golf-PLUS FHD" tvg-logo="http://103.114.203.129:8080/images/9c8737a086fb7c0b1a95cd39e08eda5d.jpg" group-title="ทรูสปอร์ต",Golf-PLUS FHD
+http://103.114.203.129:8080/toom/12345/122
+#EXTINF:-1 tvg-id="" tvg-name="TRUE FOOTBALL HD4" tvg-logo="http://103.114.203.129:8080/images/02caf5cc387427b7ea2265eaa041703e.jpg" group-title="ทรูสปอร์ต",TRUE FOOTBALL HD4
+http://103.114.203.129:8080/toom/12345/51498
+#EXTINF:-1 tvg-id="" tvg-name="TRUE FOOTBALL HD5" tvg-logo="http://103.114.203.129:8080/images/1c179a0a8ebf282aa3ce00a2faf2c317.png" group-title="ทรูสปอร์ต",TRUE FOOTBALL HD5
+http://103.114.203.129:8080/toom/12345/40448
+#EXTINF:-1 tvg-id="SPOTV.th" tvg-name="SPOTV 1" tvg-logo="http://103.114.203.129:8080/images/67331ec5a62169075f2cc87ae961bdea.jpg" group-title="ทรูสปอร์ต",SPOTV 1
+http://103.114.203.129:8080/toom/12345/51225
+#EXTINF:-1 tvg-id="SPOTV2.th" tvg-name="SPOTV 2" tvg-logo="http://103.114.203.129:8080/images/826aa3e633b3cf5a0391ba99f4189140.jpg" group-title="ทรูสปอร์ต",SPOTV 2
+http://103.114.203.129:8080/toom/12345/40447
+#EXTINF:-1 tvg-id="SPOTV2.th" tvg-name="SPOTV2 MotoGP" tvg-logo="http://103.114.203.129:8080/images/826aa3e633b3cf5a0391ba99f4189140.jpg" group-title="ทรูสปอร์ต",SPOTV2 MotoGP
+http://103.114.203.129:8080/toom/12345/46765
+#EXTINF:-1 tvg-id="SPOTV.th" tvg-name="SPOTV1" tvg-logo="http://103.114.203.129:8080/images/6f462d7957067d050e3d60a32af3a6dc.jpg" group-title="ทรูสปอร์ต",SPOTV1
+http://103.114.203.129:8080/toom/12345/10395
+#EXTINF:-1 tvg-id="Mono.29.th" tvg-name="MONOMAX-WC 1 1080P50" tvg-logo="http://103.114.203.129:8080/images/e5408d2c287ca4eb1da8901637512f99.jpg" group-title="โมโนแม็กซ์ อีเวนต์",MONOMAX-WC 1 1080P50
+http://103.114.203.129:8080/toom/12345/66555
+#EXTINF:-1 tvg-id="812.astro" tvg-name="MONOMAX-WC 1 720P50" tvg-logo="http://103.114.203.129:8080/images/e5408d2c287ca4eb1da8901637512f99.jpg" group-title="โมโนแม็กซ์ อีเวนต์",MONOMAX-WC 1 720P50
+http://103.114.203.129:8080/toom/12345/37372
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX-WC 2 1080P50" tvg-logo="http://103.114.203.129:8080/images/abd4f874f281c65e4a9cc447d72f2a84.jpg" group-title="โมโนแม็กซ์ อีเวนต์",MONOMAX-WC 2 1080P50
+http://103.114.203.129:8080/toom/12345/50397
+#EXTINF:-1 tvg-id="" tvg-name="MONOMAX-WC 2 720P50" tvg-logo="http://103.114.203.129:8080/images/abd4f874f281c65e4a9cc447d72f2a84.jpg" group-title="โมโนแม็กซ์ อีเวนต์",MONOMAX-WC 2 720P50
+http://103.114.203.129:8080/toom/12345/51336
+#EXTINF:-1 tvg-id="Mono.29.th" tvg-name="MONOMAX-SPO" tvg-logo="http://103.114.203.129:8080/images/06be2bc763a2c58ffa1aead5b7128812.jpg" group-title="โมโนแม็กซ์ อีเวนต์",MONOMAX-SPO
+http://103.114.203.129:8080/toom/12345/37428
+#EXTINF:-1 tvg-id="" tvg-name="PlayID ซีรีอินเตอ" tvg-logo="http://103.114.203.129:8080/images/a166867875fe0c803aba05d21d689353.png" group-title="ช่องพรีเมียม พิเศษ",PlayID ซีรีอินเตอ
+http://103.114.203.129:8080/toom/12345/17715
+#EXTINF:-1 tvg-id="369754" tvg-name="PLAID Asian" tvg-logo="http://103.114.203.129:8080/images/280742def76ffc9cf86f8e13b39a8f7f.png" group-title="ช่องพรีเมียม พิเศษ",PLAID Asian
+http://103.114.203.129:8080/toom/12345/18833
+#EXTINF:-1 tvg-id="" tvg-name="ซีรีเอเชีย" tvg-logo="http://103.114.203.129:8080/images/71b7b337e2987e91fec8e799fe2841ef.png" group-title="ช่องพรีเมียม พิเศษ",ซีรีเอเชีย
+http://103.114.203.129:8080/toom/12345/15672
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/3e278b4756914c02e1791e6d441692e5.png" group-title="ช่องพรีเมียม พิเศษ",PlayID Series พากย์ไทย
+http://103.114.203.129:8080/toom/12345/17239
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/78068d0f0c20c6b8a2bfdeb58343c7bd.png" group-title="ช่องพรีเมียม พิเศษ",PlayID Universal
+http://103.114.203.129:8080/toom/12345/17237
+#EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ช่องพรีเมียม พิเศษ",PlayID-Movie
+http://103.114.203.129:8080/toom/12345/17788
+#EXTINF:-1 tvg-id="368396" tvg-name="PlayID-4K BOX" tvg-logo="http://103.114.203.129:8080/images/c251c977571222e2ba4a0a39b6269df2.png" group-title="ช่องพรีเมียม พิเศษ",PlayID-4K BOX
+http://103.114.203.129:8080/toom/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/5963ec11c666ea07f9c1d1a9db3ba547.jpg" group-title="ช่องพรีเมียม พิเศษ",โคนัน วันพีซ
+http://103.114.203.129:8080/toom/12345/15674
+#EXTINF:-1 tvg-id="TRFILMHD.th" tvg-name="TR-FILM 1 FHD" tvg-logo="http://103.114.203.129:8080/images/3490d9c0074b737940eb3f45cbbfde3a.jpg" group-title="ช่องภาพยนตร์ ",TR-FILM 1 FHD
+http://103.114.203.129:8080/toom/12345/67
+#EXTINF:-1 tvg-id="TRFILMHD2.th" tvg-name="TR-FILM 2 FHD" tvg-logo="http://103.114.203.129:8080/images/1cf48d071be5a5c0af1aaf4b78b33e3f.png" group-title="ช่องภาพยนตร์ ",TR-FILM 2 FHD
+http://103.114.203.129:8080/toom/12345/79
+#EXTINF:-1 tvg-id="TRMOVIEHITS.th" tvg-name="True Movie Hits" tvg-logo="http://103.114.203.129:8080/images/ad4de50d1ba14f9709c3f0d61dbb82fc.jpg" group-title="ช่องภาพยนตร์ ",True Movie Hits
+http://103.114.203.129:8080/toom/12345/66
+#EXTINF:-1 tvg-id="TRTHAIFILM.th" tvg-name="TRUE THAI FILM" tvg-logo="http://103.114.203.129:8080/images/5e2071e51b176d90f37a41132459cf88.jpg" group-title="ช่องภาพยนตร์ ",TRUE THAI FILM
+http://103.114.203.129:8080/toom/12345/64
+#EXTINF:-1 tvg-id="TRFILMASIA.th" tvg-name="True Film Asia" tvg-logo="http://103.114.203.129:8080/images/686301f7b48a600297786bfea5609d22.jpg" group-title="ช่องภาพยนตร์ ",True Film Asia
+http://103.114.203.129:8080/toom/12345/70
+#EXTINF:-1 tvg-id="WARNER.th" tvg-name="WarnerTH" tvg-logo="http://103.114.203.129:8080/images/ef006383ecfe2f5d7ba918a5ad713f94.jpg" group-title="ช่องภาพยนตร์ ",WarnerTH
+http://103.114.203.129:8080/toom/12345/74
+#EXTINF:-1 tvg-id="TRASIANMORE.th" tvg-name="True Asian More" tvg-logo="http://103.114.203.129:8080/images/5d0a4b084194df5cb26bf7f089dac626.jpg" group-title="ช่องภาพยนตร์ ",True Asian More
+http://103.114.203.129:8080/toom/12345/80
+#EXTINF:-1 tvg-id="TRSERIES.th" tvg-name="TRUE SERIES" tvg-logo="http://103.114.203.129:8080/images/500a8644b5c0a8777401c5212f736dfa.jpg" group-title="ช่องภาพยนตร์ ",TRUE SERIES
+http://103.114.203.129:8080/toom/12345/138
+#EXTINF:-1 tvg-id="AXN.th" tvg-name="TRUE AXN" tvg-logo="http://103.114.203.129:8080/images/c91d3636b7d10f1f7fe728aa9c413798.jpg" group-title="ช่องภาพยนตร์ ",TRUE AXN
+http://103.114.203.129:8080/toom/12345/52912
+#EXTINF:-1 tvg-id="CELESTIAL.th" tvg-name="TRUE​ CCM-HD" tvg-logo="http://103.114.203.129:8080/images/a7b576677bc2f5cb34d8f8f1658c57b4.jpg" group-title="ช่องภาพยนตร์ ",TRUE​ CCM-HD
+http://103.114.203.129:8080/toom/12345/53789
+#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO FHD" tvg-logo="http://103.114.203.129:8080/images/acc1f9f3464d4247a83e7b667590da0a.jpg" group-title="ช่องภาพยนตร์ ",HBO FHD
+http://103.114.203.129:8080/toom/12345/52913
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX TH" tvg-logo="http://103.114.203.129:8080/images/3c5a5362f881c30781df2a149f70854f.jpg" group-title="ช่องภาพยนตร์ ",CINEMAX TH
+http://103.114.203.129:8080/toom/12345/52918
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX-HD" tvg-logo="http://103.114.203.129:8080/images/3c5a5362f881c30781df2a149f70854f.jpg" group-title="ช่องภาพยนตร์ ",CINEMAX-HD
+http://103.114.203.129:8080/toom/12345/59047
+#EXTINF:-1 tvg-id="HBO Hits.th" tvg-name="HBO HITS" tvg-logo="http://103.114.203.129:8080/images/856e9adfbbbbe93654d69cc57788c781.jpg" group-title="ช่องภาพยนตร์ ",HBO HITS
+http://103.114.203.129:8080/toom/12345/61461
+#EXTINF:-1 tvg-id="HBO Signature.th" tvg-name="HBO Signature" tvg-logo="http://103.114.203.129:8080/images/9d9a739da9d8f649d5ae760c67a6bd10.jpg" group-title="ช่องภาพยนตร์ ",HBO Signature
+http://103.114.203.129:8080/toom/12345/61462
+#EXTINF:-1 tvg-id="HBO.Family.th" tvg-name="HBO Family TH" tvg-logo="http://103.114.203.129:8080/images/0663769fd693e03d40c4c68f3b721a06.jpg" group-title="ช่องภาพยนตร์ ",HBO Family TH
+http://103.114.203.129:8080/toom/12345/61464
+#EXTINF:-1 tvg-id="517642" tvg-name="ROCK X STREAM" tvg-logo="http://103.114.203.129:8080/images/92c55bf0675e369c8edd42d66ffbfa3e.jpg" group-title="ช่องภาพยนตร์ ",ROCK X STREAM
+http://103.114.203.129:8080/toom/12345/37750
+#EXTINF:-1 tvg-id="Mono29.Plus.th" tvg-name="MONO-PLUS" tvg-logo="http://103.114.203.129:8080/images/845167c7862eca223d966682b27bb234.jpg" group-title="ช่องภาพยนตร์ ",MONO-PLUS
+http://103.114.203.129:8080/toom/12345/1709
+#EXTINF:-1 tvg-id="Rock.Entertainment.th" tvg-name="Rock Entertainment  DM" tvg-logo="http://103.114.203.129:8080/images/3f0c44e708ae0d72705d4766f8e5537a.jpg" group-title="ช่องบันเทิง",Rock Entertainment  DM
+http://103.114.203.129:8080/toom/12345/11091
+#EXTINF:-1 tvg-id="Rock.Action.th" tvg-name="Rock Action" tvg-logo="http://103.114.203.129:8080/images/418c5509e2171d55b0aee5c2ea4442b5.jpg" group-title="ช่องบันเทิง",Rock Action
+http://103.114.203.129:8080/toom/12345/81
+#EXTINF:-1 tvg-id="Asian.Food.Network.th" tvg-name="Asian Food Channel" tvg-logo="http://103.114.203.129:8080/images/87130cc48d2aa991d13a1f5d454970e0.jpg" group-title="ช่องบันเทิง",Asian Food Channel
+http://103.114.203.129:8080/toom/12345/41
+#EXTINF:-1 tvg-id="3BB.Asian.th" tvg-name="MONO Asian Hits" tvg-logo="http://103.114.203.129:8080/images/2738b8076ffc93cf2ad279e798131b49.jpg" group-title="ช่องบันเทิง",MONO Asian Hits
+http://103.114.203.129:8080/toom/12345/46086
+#EXTINF:-1 tvg-id="RUSH.Stories.th" tvg-name="MONO RUSH" tvg-logo="http://103.114.203.129:8080/images/e2c0be24560d78c5e599c2a9c9d0bbd2.png" group-title="ช่องบันเทิง",MONO RUSH
+http://103.114.203.129:8080/toom/12345/49831
+#EXTINF:-1 tvg-id="RUSH.th" tvg-name="MONO ALURE" tvg-logo="http://103.114.203.129:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="ช่องบันเทิง",MONO ALURE
+http://103.114.203.129:8080/toom/12345/49830
+#EXTINF:-1 tvg-id="MONO.29.Music.Station.th" tvg-name="MONO MusicStation" tvg-logo="http://103.114.203.129:8080/images/a6b1ce50efe184e2c862068279723c4a.jpg" group-title="ช่องบันเทิง",MONO MusicStation
+http://103.114.203.129:8080/toom/12345/49832
+#EXTINF:-1 tvg-id="" tvg-name="Af-reality" tvg-logo="https://cms.dmpcdn.com/livetv/2026/03/16/64dc3290-20e8-11f1-a2c3-2d8fe274e8a2_webp_original.webp" group-title="ช่องบันเทิง",Af-reality
+http://103.114.203.129:8080/toom/12345/59048
+#EXTINF:-1 tvg-id="BBCLIFE.th" tvg-name="BBC Lifestyle TH" tvg-logo="http://103.114.203.129:8080/images/c11bfb8419066d8d400b45a1442c06ce.jpg" group-title="ช่องบันเทิง",BBC Lifestyle TH
+http://103.114.203.129:8080/toom/12345/58898
+#EXTINF:-1 tvg-id="Food.Network.th" tvg-name="Food Network" tvg-logo="http://103.114.203.129:8080/images/98a3b4ac4defa0cf0fd43d2b94d69a79.jpg" group-title="ช่องบันเทิง",Food Network
+http://103.114.203.129:8080/toom/12345/3119
+#EXTINF:-1 tvg-id="TRX-ZYTE.th" tvg-name="TRUE XZYTE" tvg-logo="http://103.114.203.129:8080/images/7da35e2d41f5995c5e2e03508d545549.jpg" group-title="ช่องบันเทิง",TRUE XZYTE
+http://103.114.203.129:8080/toom/12345/82
+#EXTINF:-1 tvg-id="Discovery.Channel.th" tvg-name="DISCOVERY TH" tvg-logo="http://103.114.203.129:8080/images/57556f549cb48e859cda9bb6a21bacf9.jpg" group-title="ช่องสารคดี",DISCOVERY TH
+http://103.114.203.129:8080/toom/12345/47
+#EXTINF:-1 tvg-id="HISTORY.th" tvg-name="HISTORY TH" tvg-logo="http://103.114.203.129:8080/images/ef78276dcf48f478c9d823641c3cd607.jpg" group-title="ช่องสารคดี",HISTORY TH
+http://103.114.203.129:8080/toom/12345/48
+#EXTINF:-1 tvg-id="DISCHDW.th" tvg-name="DISCOVERY ASIA" tvg-logo="http://103.114.203.129:8080/images/4f48187c46350062ee5b340271fc4095.jpg" group-title="ช่องสารคดี",DISCOVERY ASIA
+http://103.114.203.129:8080/toom/12345/55
+#EXTINF:-1 tvg-id="Thainess.th" tvg-name="GOOTV-THAINESS" tvg-logo="http://103.114.203.129:8080/images/b08537868518b3f15e600126f2223a68.jpg" group-title="ช่องสารคดี",GOOTV-THAINESS
+http://103.114.203.129:8080/toom/12345/63
+#EXTINF:-1 tvg-id="TLC.th" tvg-name="TLC" tvg-logo="http://103.114.203.129:8080/images/075f870062fd533e5027bc5278a9eb05.jpg" group-title="ช่องสารคดี",TLC
+http://103.114.203.129:8080/toom/12345/69
+#EXTINF:-1 tvg-id="Animal.Show.th" tvg-name="ANIMAL SHOW" tvg-logo="http://103.114.203.129:8080/images/ba79fdf4a30e76dc979997b68dcda10b.jpg" group-title="ช่องสารคดี",ANIMAL SHOW
+http://103.114.203.129:8080/toom/12345/15669
+#EXTINF:-1 tvg-id="Samrujlok.th" tvg-name="SAMRUJLOK" tvg-logo="http://103.114.203.129:8080/images/bc783a2a3ef5946723e07c4474ed79be.jpg" group-title="ช่องสารคดี",SAMRUJLOK
+http://103.114.203.129:8080/toom/12345/15670
+#EXTINF:-1 tvg-id="TREXPWILD.th" tvg-name="TRUE EXPLORE WILD" tvg-logo="http://103.114.203.129:8080/images/cffbcaba2022951fd7b54db13e2144ab.jpg" group-title="ช่องสารคดี",TRUE EXPLORE WILD
+http://103.114.203.129:8080/toom/12345/47616
+#EXTINF:-1 tvg-id="MySci.th" tvg-name="AIS-MYSCI" tvg-logo="http://103.114.203.129:8080/images/9a9eabf6e223939bcb8b5c025011ab05.jpg" group-title="ช่องสารคดี",AIS-MYSCI
+http://103.114.203.129:8080/toom/12345/49940
+#EXTINF:-1 tvg-id="Thainess.th" tvg-name="KHONGDEE TH" tvg-logo="http://103.114.203.129:8080/images/775f7b2bab080c54c99ac6cfe846f8b5.jpg" group-title="ช่องสารคดี",KHONGDEE TH
+http://103.114.203.129:8080/toom/12345/53589
+#EXTINF:-1 tvg-id="TREXPSCI.th" tvg-name="TRUE EXPLORE SCI" tvg-logo="http://103.114.203.129:8080/images/dd6ffcdb7258679d46aaacadfe14ed0c.jpg" group-title="ช่องสารคดี",TRUE EXPLORE SCI
+http://103.114.203.129:8080/toom/12345/61465
+#EXTINF:-1 tvg-id="CARTOONNET.th" tvg-name="Cartoon Network TH " tvg-logo="http://103.114.203.129:8080/images/e3af2aac4dcf0ba97466438646b6409c.jpg" group-title=" ช่องการ์ตูน",Cartoon Network TH 
+http://103.114.203.129:8080/toom/12345/15652
+#EXTINF:-1 tvg-id="Cartoonito.th" tvg-name="CARTOONITO DM" tvg-logo="http://103.114.203.129:8080/images/f6cfc2167d014bfd0122a5765de74887.jpg" group-title=" ช่องการ์ตูน",CARTOONITO DM
+http://103.114.203.129:8080/toom/12345/60
+#EXTINF:-1 tvg-id="DREAMWORKS.th" tvg-name="Dreamworks THAI DM" tvg-logo="http://103.114.203.129:8080/images/a8b21f77b634d8a1dc42f982d9f49553.jpg" group-title=" ช่องการ์ตูน",Dreamworks THAI DM
+http://103.114.203.129:8080/toom/12345/54
+#EXTINF:-1 tvg-id="" tvg-name="MangoMojito FHD" tvg-logo="http://103.114.203.129:8080/images/9e331d3ff6113d1ec0da17f665ca9ac7.png" group-title=" ช่องการ์ตูน",MangoMojito FHD
+http://103.114.203.129:8080/toom/12345/18895
+#EXTINF:-1 tvg-id="Nick Jr..th" tvg-name="Nickjr" tvg-logo="http://103.114.203.129:8080/images/efc566d4a21628eef74e42429705e5c2.jpg" group-title=" ช่องการ์ตูน",Nickjr
+http://103.114.203.129:8080/toom/12345/61463
+#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="NICKELODEON THAI " tvg-logo="http://103.114.203.129:8080/images/fd4f4f88b0812e6898aa5cffd68ff09f.jpg" group-title=" ช่องการ์ตูน",NICKELODEON THAI 
+http://103.114.203.129:8080/toom/12345/57
+#EXTINF:-1 tvg-id="" tvg-name="การ์ตูนคลับแชนเนล" tvg-logo="http://103.114.203.129:8080/images/1318c8a2c145e1769480ab381797b175.jpg" group-title=" ช่องการ์ตูน",การ์ตูนคลับแชนเนล
+http://103.114.203.129:8080/toom/12345/10581
+#EXTINF:-1 tvg-id="" tvg-name="Boom Ainme" tvg-logo="http://103.114.203.129:8080/images/54013ba69c196820e56801f1ef5aad54.jpg" group-title=" ช่องการ์ตูน",Boom Ainme
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 tvg-id="5791" tvg-name="Sky Sports Football" tvg-logo="http://103.114.203.129:8080/images/90800d67095db89b2e245e573c0b379e.png" group-title="กีฬาต่างประเทศ",Sky Sports Football
+http://103.114.203.129:8080/toom/12345/33317
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/1rsDhCMds4Pช่อง.jpg" group-title="กีฬาต่างประเทศ",Real Madrid TV
+http://103.114.203.129:8080/toom/12345/89582
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/Gl0Mfj9gUj648o9fZm7IXsKAj5lp5x0ช่อง.jpg" group-title="กีฬาต่างประเทศ",Sky Sports Main Event
+http://103.114.203.129:8080/toom/12345/89584
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="http://103.114.203.129:8080/images/bf1df1a7bb2a9285493d530242b20016.png" group-title="กีฬาต่างประเทศ",LFC TV
+http://103.114.203.129:8080/toom/12345/89585
+#EXTINF:-1 tvg-id="" tvg-name="mutv" tvg-logo="http://103.114.203.129:8080/images/e698c5e95ba1263bb6951d01897d9b64.png" group-title="กีฬาต่างประเทศ",mutv
+http://103.114.203.129:8080/toom/12345/89586
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://103.114.203.129:8080/images/b045e620719fe1c272b4fbdaf16323c7.png" group-title="กีฬาต่างประเทศ",Red Bull TV
+http://103.114.203.129:8080/toom/12345/89587
+#EXTINF:-1 tvg-id="" tvg-name="Fox sport 1 USA" tvg-logo="http://103.114.203.129:8080/images/a15ac4b6b5685f0d61defd7bc5dc11a1.png" group-title="กีฬาต่างประเทศ",Fox sport 1 USA
+http://103.114.203.129:8080/toom/12345/89588
+#EXTINF:-1 tvg-id="" tvg-name="Fox sport 2 USA" tvg-logo="http://103.114.203.129:8080/images/35efdf3e9556248d863f14d7c1c003e4.png" group-title="กีฬาต่างประเทศ",Fox sport 2 USA
+http://103.114.203.129:8080/toom/12345/89589
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="http://103.114.203.129:8080/images/e51b90a11deb33edb8822dfdc117132f.jpg" group-title="กีฬาต่างประเทศ",TNT Sports
+http://103.114.203.129:8080/toom/12345/89590
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="http://103.114.203.129:8080/images/13251929df5a95193213485b4fc00be3.jpg" group-title="กีฬาต่างประเทศ",TNT Sports 2
+http://103.114.203.129:8080/toom/12345/89591
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="http://103.114.203.129:8080/images/4e1ead0d94922b27a81fa339e6b37492.jpg" group-title="กีฬาต่างประเทศ",TNT Sports 3
+http://103.114.203.129:8080/toom/12345/89592
+#EXTINF:-1 tvg-id="" tvg-name="ESPN US" tvg-logo="http://103.114.203.129:8080/images/aee420d2fdc5bc3529d0fc2cdbda251c.png" group-title="กีฬาต่างประเทศ",ESPN US
+http://103.114.203.129:8080/toom/12345/89593
+#EXTINF:-1 tvg-id="" tvg-name="Sky sport F1" tvg-logo="http://103.114.203.129:8080/images/32ffc46b919c6cb07d3fb3eeb33b6981.png" group-title="กีฬาต่างประเทศ",Sky sport F1
+http://103.114.203.129:8080/toom/12345/89595
+#EXTINF:-1 tvg-id="" tvg-name="Sky sport football" tvg-logo="http://103.114.203.129:8080/images/d2378a2618381569a868998a8d15e922.png" group-title="กีฬาต่างประเทศ",Sky sport football
+http://103.114.203.129:8080/toom/12345/89596
+#EXTINF:-1 tvg-id="" tvg-name="Sky sport mix" tvg-logo="http://103.114.203.129:8080/images/1ec8250dbb8f3e0582e9dab077f4e153.png" group-title="กีฬาต่างประเทศ",Sky sport mix
+http://103.114.203.129:8080/toom/12345/89597
