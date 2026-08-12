@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ThaiPBS" tvg-logo="https://madoball.com/upload/1698.jpg" group-title="📺DigitalTV📺",ThaiPBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNN16" tvg-logo="https://madoball.com/upload/6345.jpg" group-title="📺DigitalTV📺",TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 tvg-name="Nation22" tvg-logo="https://madoball.com/upload/6339.jpg" group-title="📺DigitalTV📺",Nation22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-name="PPTV1" tvg-logo="https://madoball.com/upload/1664.jpg" group-title="📺DigitalTV📺",@PPTV HD
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TOPNEW" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg" group-title="📺DigitalTV📺",TOPNEW
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+#EXTINF:-1 tvg-name="NEW1" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="📺DigitalTV📺",NEW1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-name="AmarinTV" tvg-logo="https://madoball.com/upload/6328.jpg" group-title="📺DigitalTV📺",AmarinTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://madoball.com/upload/6330.jpg" group-title="📺DigitalTV📺",@Thairath TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://madoball.com/upload/6330.jpg" group-title="📺DigitalTV📺",Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-name="True4U" tvg-logo="https://madoball.com/upload/6337.jpg" group-title="📺DigitalTV📺",True24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-name="GMM 25" tvg-logo="https://madoball.com/upload/6336.jpg" group-title="📺DigitalTV📺",GMM 25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://madoball.com/upload/461.jpg" group-title="📺DigitalTV📺",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+
+#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺DigitalTV📺",@Mono 29
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺DigitalTV📺",Mono 29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-name="CH 8" tvg-logo="https://img1.pic.in.th/images/8ch.jpg" group-title="📺DigitalTV📺",CH 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://madoball.com/upload/6335.jpg" group-title="📺DigitalTV📺",Workpoint
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 tvg-name="CH3" tvg-logo="https://madoball.com/upload/7348.jpg" group-title="📺DigitalTV📺",CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:-1 tvg-name="TV5" tvg-logo="https://madoball.com/upload/7347.jpg" group-title="📺DigitalTV📺",TV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 tvg-name="CH7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="📺DigitalTV📺",CH7
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 tvg-name="MCOT" tvg-logo="https://madoball.com/upload/6332.jpg" group-title="📺DigitalTV📺",MCOT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-name="NBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/250px-NBT_2025.svg.png" group-title="📺DigitalTV📺",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="iptv36.tv5" tvg-name="CH 5" tvg-logo="http://103.114.203.129:8080/images/755d01f38f70630aefecc2b5c20a6eca.jpg" group-title="ดิจิตอลทีวี",CH 5
 http://103.114.203.129:8080/toom/12345/56
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="PLAY SPORTS 66" tvg-logo="http://103.114.203.129:8080/images/59be00cd1c658c8822fb5b5c214e71aa.png" group-title="ไอส์เพลย์ สปอร์ตส์",PLAY SPORTS 66
